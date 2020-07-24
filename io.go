@@ -1,4 +1,4 @@
-package prefixtree-opencc
+package prefixtreeopencc
 
 import (
 	"bufio"

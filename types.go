@@ -1,4 +1,4 @@
-package prefixtree-opencc
+package prefixtreeopencc
 
 import (
 	core "github.com/ApesPlan/prefixtree-core"
